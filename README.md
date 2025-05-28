@@ -60,6 +60,13 @@ I aspire to build transformative technologies — from AI mentors to space-grade
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silragon-ryu&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silragon-ryu&layout=compact&theme=tokyonight)
+
+---
+
 ## 🧭 Values
 
 - 🎯 **Purpose Over Productivity** — Every line of code serves a greater mission  
