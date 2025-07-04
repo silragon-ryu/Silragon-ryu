@@ -159,7 +159,7 @@ I aspire to build transformative technologies — from AI mentors to space-grade
 - 🌍 [LinkedIn – Ahmed Ehab](https://linkedin.com/in/ahmed-ehab-992920344)  
 - 💌 silragonryu@gmail.com  
 - 🧠 [GitHub – silragon-ryu](https://github.com/silragon-ryu)
-
+- 🖥️ [portfilio - silragon-ryu](https://ryus-portfolio.netlify.app/)
 ---
 
 > *"I may not have built the quantum thermal engine yet... but I am already building the man who will."*
