@@ -1,4 +1,4 @@
-# ⚔️ Silragon Ryu — Ahmed Ehab
+# ⚔️ Silragon Ryu 
 
 > *"Discipline is the bridge between who I am and who I must become."*
 
